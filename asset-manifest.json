@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pioclaudio/book-library-react/static/css/main.737ddcf1.chunk.css",
-    "main.js": "/pioclaudio/book-library-react/static/js/main.3787fb64.chunk.js",
-    "main.js.map": "/pioclaudio/book-library-react/static/js/main.3787fb64.chunk.js.map",
-    "runtime-main.js": "/pioclaudio/book-library-react/static/js/runtime-main.7cc21193.js",
-    "runtime-main.js.map": "/pioclaudio/book-library-react/static/js/runtime-main.7cc21193.js.map",
-    "static/js/2.58484c7a.chunk.js": "/pioclaudio/book-library-react/static/js/2.58484c7a.chunk.js",
-    "static/js/2.58484c7a.chunk.js.map": "/pioclaudio/book-library-react/static/js/2.58484c7a.chunk.js.map",
-    "index.html": "/pioclaudio/book-library-react/index.html",
-    "precache-manifest.1d692e79cdfcb984130dd8c59cd2d1f0.js": "/pioclaudio/book-library-react/precache-manifest.1d692e79cdfcb984130dd8c59cd2d1f0.js",
-    "service-worker.js": "/pioclaudio/book-library-react/service-worker.js",
-    "static/css/main.737ddcf1.chunk.css.map": "/pioclaudio/book-library-react/static/css/main.737ddcf1.chunk.css.map",
-    "static/js/2.58484c7a.chunk.js.LICENSE": "/pioclaudio/book-library-react/static/js/2.58484c7a.chunk.js.LICENSE"
+    "main.css": "/book-library-react/static/css/main.737ddcf1.chunk.css",
+    "main.js": "/book-library-react/static/js/main.79e7883e.chunk.js",
+    "main.js.map": "/book-library-react/static/js/main.79e7883e.chunk.js.map",
+    "runtime-main.js": "/book-library-react/static/js/runtime-main.3523973e.js",
+    "runtime-main.js.map": "/book-library-react/static/js/runtime-main.3523973e.js.map",
+    "static/js/2.58484c7a.chunk.js": "/book-library-react/static/js/2.58484c7a.chunk.js",
+    "static/js/2.58484c7a.chunk.js.map": "/book-library-react/static/js/2.58484c7a.chunk.js.map",
+    "index.html": "/book-library-react/index.html",
+    "precache-manifest.29702b3446f44714349ae29a145e8a73.js": "/book-library-react/precache-manifest.29702b3446f44714349ae29a145e8a73.js",
+    "service-worker.js": "/book-library-react/service-worker.js",
+    "static/css/main.737ddcf1.chunk.css.map": "/book-library-react/static/css/main.737ddcf1.chunk.css.map",
+    "static/js/2.58484c7a.chunk.js.LICENSE": "/book-library-react/static/js/2.58484c7a.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cc21193.js",
+    "static/js/runtime-main.3523973e.js",
     "static/js/2.58484c7a.chunk.js",
     "static/css/main.737ddcf1.chunk.css",
-    "static/js/main.3787fb64.chunk.js"
+    "static/js/main.79e7883e.chunk.js"
   ]
 }
