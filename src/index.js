@@ -91,7 +91,7 @@ class AddBookModal extends React.Component {
     evt.preventDefault();
 
     var files = evt.dataTransfer.files;
-
+// eslint-disable-next-line
     for (let i = 0, f; f = files[i]; i++) {
         if (!f.type.match('image.*')) {
             continue;
