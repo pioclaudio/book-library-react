@@ -19,6 +19,12 @@ body {
     max-width:1000px;
 }
 
+.card-deck {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
 .card {
     min-width: 300px;
     max-width: 300px;
@@ -69,13 +75,20 @@ button.close {
 	width: 64px;
 	height: 64px;
 	border-radius: 50%;
-	text-align:center;
+	/* text-align:center; */
 	color: #FFF;
 	position: fixed;
 	bottom: 48px;
 	right: 48px;
-    font-size: 30px;
-    outline:none;
+  font-size: 30px;
+  outline:none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fab span {
+  line-height: 30px;
+  height: 32px;
 }
 
 .footer-container {
