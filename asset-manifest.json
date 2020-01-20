@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pioclaudio/book-library-react/static/css/main.737ddcf1.chunk.css",
+    "main.js": "/pioclaudio/book-library-react/static/js/main.3787fb64.chunk.js",
+    "main.js.map": "/pioclaudio/book-library-react/static/js/main.3787fb64.chunk.js.map",
+    "runtime-main.js": "/pioclaudio/book-library-react/static/js/runtime-main.7cc21193.js",
+    "runtime-main.js.map": "/pioclaudio/book-library-react/static/js/runtime-main.7cc21193.js.map",
+    "static/js/2.58484c7a.chunk.js": "/pioclaudio/book-library-react/static/js/2.58484c7a.chunk.js",
+    "static/js/2.58484c7a.chunk.js.map": "/pioclaudio/book-library-react/static/js/2.58484c7a.chunk.js.map",
+    "index.html": "/pioclaudio/book-library-react/index.html",
+    "precache-manifest.1d692e79cdfcb984130dd8c59cd2d1f0.js": "/pioclaudio/book-library-react/precache-manifest.1d692e79cdfcb984130dd8c59cd2d1f0.js",
+    "service-worker.js": "/pioclaudio/book-library-react/service-worker.js",
+    "static/css/main.737ddcf1.chunk.css.map": "/pioclaudio/book-library-react/static/css/main.737ddcf1.chunk.css.map",
+    "static/js/2.58484c7a.chunk.js.LICENSE": "/pioclaudio/book-library-react/static/js/2.58484c7a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cc21193.js",
+    "static/js/2.58484c7a.chunk.js",
+    "static/css/main.737ddcf1.chunk.css",
+    "static/js/main.3787fb64.chunk.js"
+  ]
+}
